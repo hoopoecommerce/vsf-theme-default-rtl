@@ -1,5 +1,5 @@
 {
-  "name": "@hoopoemedia/theme-default-rtl",
+  "name": "@hoopoemedia/vsf-theme-default-rtl",
   "description": "Right to Left support for Default theme of Vue Storefront",
   "main": "index.js",
   "scripts": {
